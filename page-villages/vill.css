@@ -58,11 +58,38 @@ a :hover {
     color: rgb(255, 255, 255);
    
 }
+.villes{
+    position: relative;
+    margin-top: 80px;
+    margin-left: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    box-shadow: 0 2px 3px 0 #ababab;
+    background-color: #F8F7F8;
+    max-width: 500px;
+    padding: 0;       
+    margin-left: auto;
+    margin-right: auto 
+    
+}
+.bouton{
+    position: relative;
+    margin-top: 80px;
+    width: 100%;  
+
+       
+    margin-left: 60%;
+
+    
+}
 
 .foot{
     position: relative;
     text-align: center;
-    margin-top: 570px;
+    margin-top: 160px;
     font-weight: 100;
     font-size: 25px;
 }
