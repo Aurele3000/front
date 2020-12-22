@@ -135,7 +135,7 @@ input[type=code-postal], input[type=nom], input[type=date], input[type=text] {
     height: 40px !important; 
 }
 
-.button {
+.a, .button {
     color: white;
     background-color: #10b3ff;
     border: none;
