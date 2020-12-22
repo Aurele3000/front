@@ -70,12 +70,7 @@ a :hover {
     text-shadow: rgb(63, 63, 63) 1px 0 10px;
     z-index: 3;
 }
-.pellicule{
-    position: relative;
-    float: left;
-    margin-top: 220px;
-    z-index: 1;
-}
+
 .foot{
     position: relative;
     text-align: center;
